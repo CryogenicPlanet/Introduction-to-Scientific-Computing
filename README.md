@@ -3,7 +3,7 @@ University of Toronto Course: PSCB57
 
 **Final Grade - A - 4.0**
 
-## Topics Covered
+### Topics Covered
 - Lecture 1 
 	1. Welcome to the course
 	2. Organization of the course
@@ -110,4 +110,4 @@ University of Toronto Course: PSCB57
 	7. 	Sample partial differential equations (PDEs): using 2nd order stencils
 	8. 	Linear wave equation
 	9. 	Waves in a pond and the Young's double slit experiment in Python
-	10. 	Examples of scientific simulations: fluid dynamics of disks
+	10. Examples of scientific simulations: fluid dynamics of disks
