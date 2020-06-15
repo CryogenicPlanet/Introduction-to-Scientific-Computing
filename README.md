@@ -13,7 +13,7 @@ Solving Systems of Differentiation Equations
 Basic Stock Market Analysis
 ![stocks](/docs/images/stocks.png)
 Estimating Orbits of Planets
-![orbits](/docs/images/orbits.pWng)
+![orbits](/docs/images/orbits.png)
 Components of Drag
 ![drag](/docs/images/drag.png)
 Truncation Error Analysis
