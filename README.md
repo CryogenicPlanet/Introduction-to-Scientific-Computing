@@ -9,16 +9,29 @@ Third year Computation Physics Course at UofT taught by Pawel Artymowicz. I took
 ### Visualization of Some Concepts
 
 Solving Systems of Differentiation Equations
+
 ![lorenz](/docs/images/lorenz.png)
+
 Basic Stock Market Analysis
+
 ![stocks](/docs/images/stocks.png)
+
 Estimating Orbits of Planets
+
 ![orbits](/docs/images/orbits.png)
+
 Components of Drag
+
 ![drag](/docs/images/drag.png)
+
 Truncation Error Analysis
+
 ![truncation](/docs/images/truncation.png)
+
 Double Slit Experiment Plotting
+
 ![waves](/docs/images/waves.png)
+
 Speeding up convergence of Series
+
 ![series](/docs/images/series.png)
